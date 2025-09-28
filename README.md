@@ -1,11 +1,6 @@
 # Holidaze (React + Vite)
 
-<p align="center">
-   <img src="public/image.png" alt="Holidaze screenshot" width="900" />
-   <br/>
-   <em>Holidaze — venue marketplace</em>
-   <br/><br/>
-</p>
+
 
 This app is a Holidaze-style venue marketplace built with React 18 and Vite. It uses Tailwind CSS + DaisyUI for UI, and Noroff v2 API for data.
 
