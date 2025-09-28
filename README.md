@@ -13,7 +13,6 @@ This app is a Holidaze-style venue marketplace built with React 18 and Vite. It 
 - `src/components/` — reusable UI components (Header, Footer, Layout, Card, etc.)
 - `src/pages/` — route-level features (home, venue, admin, profile, login, register)
 - `src/constants/` — runtime constants (API URLs, headers)
-- `docs/structure.md` — more details on the recommended organization and conventions
 
 ## Notable decisions
 - Light theme only for accessibility.
