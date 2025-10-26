@@ -1,6 +1,8 @@
 This app is a Holidaze venue marketplace built with React 18 and Vite. It uses Tailwind CSS + DaisyUI for UI, and Noroff v2 API for data.
 <img width="2380" height="1337" alt="Skjermbilde 2025-09-28 001633" src="https://github.com/user-attachments/assets/851c4479-878c-4cff-a9e2-99919033d415" />
 
+## Live Link
+https://holidazehagen.netlify.app/
 ## Dev scripts
 - `npm run dev` — start the dev server
 - `npm run build` — production build
